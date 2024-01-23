@@ -1,5 +1,5 @@
 
 add_executable(
-print_args
-print_args.c
+print_args1
+print_args1.c
 )
