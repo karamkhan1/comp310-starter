@@ -3,7 +3,7 @@
 /**
 * Objective: Write a program to perform matrix
  * addition and matrix multiplication on 2D arrays.
-*/f
+*/ff
 
 void addMatrices(int rows, int cols, int a[rows][cols], int b[rows][cols], int sum[rows][cols]) {
     for (int i = 0; i < rows; i++) {
